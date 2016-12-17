@@ -12,5 +12,7 @@
   "author": "Oskar Wróbel <kontakt@oskarwrobel.pl>",
   "license": "ISC",
   "dependencies": {
+    "del": "^2.2.2",
+    "minimist": "^1.2.0"
   }
 }
