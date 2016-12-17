@@ -13,6 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "del": "^2.2.2",
+    "git-guppy": "^2.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-filter": "^4.0.0",
     "minimist": "^1.2.0"
   }
 }
