@@ -1,6 +1,6 @@
 {
   "name": "static-layout-starter-dev-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The dev tools for Static Layout Starter.",
   "scripts": {
     "lint": "./node_modules/.bin/gulp lint"
